@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am Millicent, and I am building my data analytics skills through projects .
+
+##Core Competencies
+- Programming Languages:SQL, Python
+- Tools: Jupyter Notebook,PowerBI
+-Skills; Data cleaning, Data visualisation, Data Analysis, Dashboard creation .
+
 <!--
 **MillicentAbban/MillicentAbban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
