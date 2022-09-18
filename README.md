@@ -15,7 +15,7 @@ I am Millicent, and I am building my data analytics skills through projects .
 
 
 ## Lets Connect
-- Linkedin [https://www.linkedin.com/in/millicentabban/]
+- [Linkedin](https://www.linkedin.com/in/millicentabban/)
 
 <!--
 **MillicentAbban/MillicentAbban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
